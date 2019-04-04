@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/Core/Advance/Arrays/ArrayInitialization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/Arrays/ArrayInitialization/cmake-build-debug/CMakeFiles/ArrayInitialization.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/Arrays/ArrayInitialization/cmake-build-debug/CMakeFiles/edit_cache.dir

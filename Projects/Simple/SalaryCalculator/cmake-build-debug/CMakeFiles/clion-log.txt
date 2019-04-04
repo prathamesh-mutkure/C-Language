@@ -1,0 +1,4 @@
+/snap/clion/61/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/prathamesh/Desktop/C-Language/Projects/Simple/SalaryCalculator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/prathamesh/Desktop/C-Language/Projects/Simple/SalaryCalculator/cmake-build-debug

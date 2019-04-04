@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/NumberGusser.dir/main.c.o  -o NumberGusser 
