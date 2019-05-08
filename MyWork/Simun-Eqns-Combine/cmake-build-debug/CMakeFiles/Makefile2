@@ -50,19 +50,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/61/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/67/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/61/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/67/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine
+CMAKE_SOURCE_DIR = /home/prathamesh/Desktop/C-Language/MyWork/Simun-Eqns-Combine
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine/cmake-build-debug
+CMAKE_BINARY_DIR = /home/prathamesh/Desktop/C-Language/MyWork/Simun-Eqns-Combine/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/Simun_Eqns_Combine.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine
 CMakeFiles/Simun_Eqns_Combine.dir/all:
 	$(MAKE) -f CMakeFiles/Simun_Eqns_Combine.dir/build.make CMakeFiles/Simun_Eqns_Combine.dir/depend
 	$(MAKE) -f CMakeFiles/Simun_Eqns_Combine.dir/build.make CMakeFiles/Simun_Eqns_Combine.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Simun_Eqns_Combine"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/prathamesh/Desktop/C-Language/MyWork/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Simun_Eqns_Combine"
 .PHONY : CMakeFiles/Simun_Eqns_Combine.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/Simun_Eqns_Combine.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Simun_Eqns_Combine.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/prathamesh/Desktop/C-Language/MyWork/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Simun_Eqns_Combine.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/prathamesh/Desktop/C-Language/MyWork/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Simun_Eqns_Combine.dir/rule
 
 # Convenience name for target.

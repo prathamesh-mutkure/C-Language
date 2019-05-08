@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine/main.c" "/home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles/Simun_Eqns_Combine.dir/main.c.o"
+  "/home/prathamesh/Desktop/C-Language/MyWork/Simun-Eqns-Combine/main.c" "/home/prathamesh/Desktop/C-Language/MyWork/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles/Simun_Eqns_Combine.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

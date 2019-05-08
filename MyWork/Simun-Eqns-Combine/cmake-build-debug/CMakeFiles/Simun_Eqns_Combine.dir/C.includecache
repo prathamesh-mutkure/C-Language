@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine/main.c
+/home/prathamesh/Desktop/C-Language/MyWork/Simun-Eqns-Combine/main.c
 stdio.h
 -
 stdbool.h
