@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Manipulating_Strings.dir/main.c.o  -o Manipulating_Strings 

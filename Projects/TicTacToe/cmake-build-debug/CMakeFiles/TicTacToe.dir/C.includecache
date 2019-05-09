@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/prathamesh/Desktop/C-Language/Projects/TicTacToe/main.c
+stdio.h
+-
+stdlib.h
+-
+curses.h
+-
+
