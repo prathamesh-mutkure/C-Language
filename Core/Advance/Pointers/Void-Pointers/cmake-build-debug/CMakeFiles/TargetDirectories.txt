@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/Core/Advance/Pointers/Void-Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/Pointers/Void-Pointers/cmake-build-debug/CMakeFiles/Void_Pointers.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/Pointers/Void-Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir

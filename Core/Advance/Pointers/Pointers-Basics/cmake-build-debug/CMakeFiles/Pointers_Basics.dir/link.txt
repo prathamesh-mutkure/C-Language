@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Pointers_Basics.dir/main.c.o  -o Pointers_Basics 

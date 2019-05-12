@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/Core/Advance/Strings/String-Converting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/Strings/String-Converting/cmake-build-debug/CMakeFiles/String_Analyzing_Converting.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/Strings/String-Converting/cmake-build-debug/CMakeFiles/edit_cache.dir
