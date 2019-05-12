@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/Core/Advance/Pointers/Pointer-Arithmatic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/Pointers/Pointer-Arithmatic/cmake-build-debug/CMakeFiles/Pointer_Arithmatic.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/Pointers/Pointer-Arithmatic/cmake-build-debug/CMakeFiles/edit_cache.dir

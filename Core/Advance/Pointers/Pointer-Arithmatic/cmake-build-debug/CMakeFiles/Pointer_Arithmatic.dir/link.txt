@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Pointer_Arithmatic.dir/main.c.o  -o Pointer_Arithmatic 

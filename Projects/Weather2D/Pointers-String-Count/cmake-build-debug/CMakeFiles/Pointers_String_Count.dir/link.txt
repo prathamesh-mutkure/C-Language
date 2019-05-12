@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Pointers_String_Count.dir/main.c.o  -o Pointers_String_Count 

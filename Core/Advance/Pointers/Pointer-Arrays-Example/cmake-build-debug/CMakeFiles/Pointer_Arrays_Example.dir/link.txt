@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Pointer_Arrays_Example.dir/main.c.o  -o Pointer_Arrays_Example 
