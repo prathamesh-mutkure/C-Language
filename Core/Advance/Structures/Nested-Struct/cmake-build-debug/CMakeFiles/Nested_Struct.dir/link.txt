@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Nested_Struct.dir/main.c.o  -o Nested_Struct 

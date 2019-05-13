@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/Core/Advance/Structures/Struct-Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/Structures/Struct-Arrays/cmake-build-debug/CMakeFiles/Struct_Arrays.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/Structures/Struct-Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir

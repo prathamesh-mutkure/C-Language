@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Struct_Arrays.dir/main.c.o  -o Struct_Arrays 

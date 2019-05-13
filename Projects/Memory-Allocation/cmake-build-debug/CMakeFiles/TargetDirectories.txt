@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/Projects/Memory-Allocation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/Projects/Memory-Allocation/cmake-build-debug/CMakeFiles/Memory_Allocation.dir
+/home/prathamesh/Desktop/C-Language/Projects/Memory-Allocation/cmake-build-debug/CMakeFiles/edit_cache.dir

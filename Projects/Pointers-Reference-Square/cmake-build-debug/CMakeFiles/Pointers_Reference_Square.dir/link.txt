@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Pointers_Reference_Square.dir/main.c.o  -o Pointers_Reference_Square 

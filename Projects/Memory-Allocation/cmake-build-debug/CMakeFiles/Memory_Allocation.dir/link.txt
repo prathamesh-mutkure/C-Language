@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Memory_Allocation.dir/main.c.o  -o Memory_Allocation 
