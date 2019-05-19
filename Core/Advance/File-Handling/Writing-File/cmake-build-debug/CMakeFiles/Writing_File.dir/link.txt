@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Writing_File.dir/main.c.o  -o Writing_File 

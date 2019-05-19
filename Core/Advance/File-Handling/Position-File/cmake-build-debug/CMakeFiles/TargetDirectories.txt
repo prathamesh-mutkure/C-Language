@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/Core/Advance/File-Handling/Position-File/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/File-Handling/Position-File/cmake-build-debug/CMakeFiles/Position_File.dir
+/home/prathamesh/Desktop/C-Language/Core/Advance/File-Handling/Position-File/cmake-build-debug/CMakeFiles/edit_cache.dir
