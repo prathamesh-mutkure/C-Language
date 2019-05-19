@@ -38,10 +38,10 @@
 ///
 ///     2. fsetpos(FILE *file, const fpos_t *position);
 ///
+/// Designed to use with fgetpos() Function
+/// Can only be used to go to the position used before
 ///
-///
-///
-///
+/// Whereas fseek() function can be used to go to any position in the file
 ///
 
 int main() {
@@ -107,6 +107,25 @@ int main() {
         printf("\n%s\n", str);
 
     /// 2. fsetpos() Function:
+
+    char s[200];
+
+    fpos_t pos2;            // Holds the position
+    fgetpos(file,&pos2);    // Assign the current position
+
+    fsetpos(file, &pos2);   // Setting the position
+
+    // Writing to that Position
+
+    fputs("I AM OVERWRITING YOU!", file);
+
+    printf("\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n");
+
+    while (fgets(s, 199, file) != NULL)
+        printf("\n%s\n", s);
+
+
+    fclose(file);
 
 
 

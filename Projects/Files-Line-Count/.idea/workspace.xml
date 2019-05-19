@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Position_File" targetName="Position_File" />
+      <config projectName="Files_Line_Count" targetName="Files_Line_Count" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,8 +11,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eccfd593-73f3-496a-9633-5a37d28aadbd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    <list default="true" id="476ae74c-658e-43ef-af2a-19adec89c598" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Files-Line-Count.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/prathamesh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Core/Advance/File-Handling/Position-File/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Core/Advance/File-Handling/Position-File/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Core/Advance/File-Handling/Position-File/cmake-build-debug/CMakeFiles/Position_File.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Core/Advance/File-Handling/Position-File/cmake-build-debug/CMakeFiles/Position_File.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Core/Advance/File-Handling/Position-File/cmake-build-debug/Position_File" beforeDir="false" afterPath="$PROJECT_DIR$/../../Core/Advance/File-Handling/Position-File/cmake-build-debug/Position_File" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Core/Advance/File-Handling/Position-File/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Core/Advance/File-Handling/Position-File/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="115" column="26" selection-start-line="115" selection-start-column="26" selection-end-line="115" selection-end-column="26" />
+            <state relative-caret-position="190">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -44,7 +52,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -70,10 +78,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -88,7 +94,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Position_File" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Position_File" TARGET_NAME="Position_File" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Position_File" RUN_TARGET_NAME="Position_File">
+    <configuration name="Files_Line_Count" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Files_Line_Count" TARGET_NAME="Files_Line_Count" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Files_Line_Count" RUN_TARGET_NAME="Files_Line_Count">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -98,13 +104,13 @@
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25341427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3294702" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -120,27 +126,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/include/x86_64-linux-gnu/bits/types/FILE.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/stdio.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="108" column="45" selection-start-line="107" selection-start-column="24" selection-end-line="108" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="115" column="26" selection-start-line="115" selection-start-column="26" selection-end-line="115" selection-end-column="26" />
+        <state relative-caret-position="190">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-end-line="11" />
         </state>
       </provider>
     </entry>

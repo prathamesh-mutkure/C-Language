@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Files_Reverse_Print.dir/main.c.o  -o Files_Reverse_Print 
