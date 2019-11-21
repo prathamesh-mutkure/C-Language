@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/MyWork/Sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/MyWork/Sorting/cmake-build-debug/CMakeFiles/Sorting.dir
+/home/prathamesh/Desktop/C-Language/MyWork/Sorting/cmake-build-debug/CMakeFiles/edit_cache.dir

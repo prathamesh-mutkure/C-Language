@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/prathamesh/Desktop/C-Language/MyWork/Sorting/main.c
+stdio.h
+-
+sort.h
+/home/prathamesh/Desktop/C-Language/MyWork/Sorting/sort.h
+
+/home/prathamesh/Desktop/C-Language/MyWork/Sorting/sort.h
+stdio.h
+-
+stddef.h
+-
+

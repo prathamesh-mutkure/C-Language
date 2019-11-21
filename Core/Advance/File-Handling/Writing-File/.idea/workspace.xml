@@ -12,32 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c5f834c-58d2-4b8d-9bd9-610280365623" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Accessing-File/.idea/Accessing-File.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Accessing-File/.idea/dictionaries/prathamesh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Accessing-File/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Accessing-File/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Accessing-File/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Position-File/.idea/dictionaries/prathamesh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading-File/.idea/Reading-File.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading-File/.idea/dictionaries/prathamesh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading-File/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading-File/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading-File/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Writing-File.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/prathamesh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Structures/struct-Functions/.idea/dictionaries/prathamesh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Structures/struct-Functions/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Structures/struct-Functions/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Structures/struct-Functions/.idea/struct-Functions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Structures/struct-Functions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Projects/Structures/.idea/Structures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Projects/Structures/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Projects/Structures/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Projects/Structures/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Structures/Nested-Struct/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Structures/Nested-Struct/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Writing_File.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Writing_File.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Projects/Pointers-Reference-Square/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Projects/Pointers-Reference-Square/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="18" column="115" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="115" />
+            <state relative-caret-position="19">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="18" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -101,6 +83,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,9 +106,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25341427" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26136363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -152,8 +134,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="18" column="115" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="115" />
+        <state relative-caret-position="19">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="18" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
